@@ -32,7 +32,7 @@ It can be used for:
 
 Security vulnerability analysis of a RISC-V fault-timing side-channel
 attack: annotated code regions mapped to their corresponding
-microarchitectural and software-level weaknesses
+microarchitectural and code-level weaknesses
 
 **Dataset Structure**
 
