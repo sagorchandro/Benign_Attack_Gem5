@@ -28,7 +28,7 @@ It can be used for:
 
 **Example Code**
 
-![](media/image1.jpeg){width="6.5in" height="3.6394192913385828in"}
+![](https://github.com/sagorchandro/Benign_Attack_Gem5/blob/main/AttackBenign.jpg){width="6.5in" height="3.6394192913385828in"}
 
 Security vulnerability analysis of a RISC-V fault-timing side-channel
 attack: annotated code regions mapped to their corresponding
