@@ -1,6 +1,5 @@
-# Benign_Attack_Gem5
-This dataset contains a collection of C programs categorized into two classes: Attack and Benign.
-**Attack vs Benign C Code Dataset: Side-Channel Attack Detection using Gem5 and Machine Learning**
+**Attack vs Benign C Code Dataset: Side-Channel Attack Detection using
+gem5 and Machine Learning**
 
 **Overview**
 
@@ -26,6 +25,14 @@ It can be used for:
 - Program behavior classification
 
 - Side-channel and speculative execution studies
+
+**Example Code**
+
+![](media/image1.jpeg){width="6.5in" height="3.6394192913385828in"}
+
+Security vulnerability analysis of a RISC-V fault-timing side-channel
+attack: annotated code regions mapped to their corresponding
+microarchitectural and software-level weaknesses
 
 **Dataset Structure**
 
